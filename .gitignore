@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GithubAction-Helloworld.slnx
+/GithubAction-Helloworld/bin/Debug
+/GithubAction-Helloworld/obj/Debug
